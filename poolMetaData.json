@@ -3,5 +3,5 @@
 "description": "「Symbol(XYM)って？」という方は、Wikiへ！Please see Wiki! 分散投資しながら、Symbolを応援する。このプールへの委任者が増えると、ランキングの上位に、Symbolの認知度アップ。そして、Symbolの価値が上がる。さらに、ADAが増える。たぶんね。",
 "ticker": "SYM",
 "homepage": "https://ja.wikipedia.org/wiki/Symbol_(%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8)"
-"extended": "https://<EXT_META_URL>/extendedMeta.json"
+"extended": "https://raw.githubusercontent.com/dlu-ulb/cardano/main/extendedMeta.json"
 }
