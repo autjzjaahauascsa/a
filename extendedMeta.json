@@ -1,37 +1,34 @@
-info:
-  url_png_icon_64x64: ""
-  url_png_logo: ""
-  location: "JAPAN"
-  social:
-    twitter_handle: ""
-    telegram_handle: ""
-    facebook_handle: ""
-    youtube_handle: ""
-    twitch_handle: ""
-    discord_handle: ""
-    github_handle: ""
-  company:
-    name: ""
-    addr: ""
-    city: ""
-    country: ""
-    company_id: ""
-    vat_id: ""
-  about:
-    me: "We are working to raise awareness of the crypto asset Symbol(XYM)."
-    server: "Sakura VPS"
-    company: ""
-  my-pool-ids:
-    0: "e85fb379236f15bbdb4938c310c09a759a75d34f6a2efc3a7f319307"
-  when-satured-then-recommend:
-  telegram-admin-handle:
-  adapools_ext:
-    prometheus:
-      0:
-        name: "Relay Node"
-        type: "relay"
-        key: ""
-      1:
-        name: "Block Producer Node"
-        type: "bp"
-        key: ""
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "JAPAN",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "We are working to raise awareness of the crypto asset Symbol(XYM).",
+            "server": "Sakura VPS",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "e85fb379236f15bbdb4938c310c09a759a75d34f6a2efc3a7f319307"
+    },
+    "when-satured-then-recommend": {
+    }
+}
