@@ -1,7 +1,7 @@
 {
-"name": "Symbol(XYM) Fun",
-"description": "「Symbol(XYM)って？」という方は、Wikiへ！Please see Wiki! 分散投資しながら、Symbolを応援する。このプールへの委任者が増えると、ランキングの上位に、Symbolの認知度アップ。そして、Symbolの価値が上がる。さらに、ADAが増える。たぶんね。",
-"ticker": "SYM",
-"homepage": "https://ja.wikipedia.org/wiki/Symbol_(%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8)",
+"name": "ORION Stake Pool",
+"description": "[ Hello, Cardano! ] ORION Stake Pool was launched on Epoch 285. We’re very happy. Because this pool can contribute to decentralization. Please support by delegating so that we can continue to operate. 0% fee until blocks are generated 10 epochs in a row.",
+"ticker": "ORION",
+"homepage": "",
 "extended": "https://git.io/JEazB"
 }
