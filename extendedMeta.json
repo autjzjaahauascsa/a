@@ -1,8 +1,8 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/dlu-ulb/cardano/main/intel.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/dlu-ulb/cardano/main/orion.png",
         "url_png_logo": "https://raw.githubusercontent.com/dlu-ulb/cardano/main/intel.png",
-        "location": "JAPAN",
+        "location": "Hokkaido, JAPAN",
         "social": {
             "twitter_handle": "",
             "telegram_handle": "",
@@ -21,7 +21,7 @@
             "vat_id": ""
         },
         "about": {
-            "me": "We are working to raise awareness of the crypto asset Symbol(XYM).",
+            "me": "",
             "server": "Sakura VPS",
             "company": ""
         }
