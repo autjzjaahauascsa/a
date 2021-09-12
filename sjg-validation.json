@@ -3,6 +3,6 @@
 "ticker":"ORION",
 "discordId":"747675500297584720",
 "pool-list":"true",
-"poolMetaData":"",
+"poolMetaData":"https://raw.githubusercontent.com/dlu-ulb/cardano/main/poolMetaData.json",
 "validation":""
 }
