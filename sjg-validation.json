@@ -4,5 +4,5 @@
 "discordId":"747675500297584720",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/dlu-ulb/cardano/main/poolMetaData.json",
-"validation":""
+"validation":"https://raw.githubusercontent.com/dlu-ulb/cardano/main/sjg-validation.json"
 }
